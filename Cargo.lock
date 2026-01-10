@@ -1994,6 +1994,7 @@ dependencies = [
  "burn-import",
  "burn-ndarray",
  "burn-store",
+ "image",
 ]
 
 [[package]]

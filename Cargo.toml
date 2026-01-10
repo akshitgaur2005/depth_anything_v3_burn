@@ -8,6 +8,7 @@ burn = { git = "https://github.com/tracel-ai/burn", branch = "main", features = 
 burn-import = { git = "https://github.com/tracel-ai/burn", branch = "main" }
 burn-ndarray = { git = "https://github.com/tracel-ai/burn", branch = "main" }
 burn-store = { git = "https://github.com/tracel-ai/burn", branch = "main" }
+image = "0.25.9"
 
 [build-dependencies]
 burn-import = { git = "https://github.com/tracel-ai/burn", branch = "main" }
